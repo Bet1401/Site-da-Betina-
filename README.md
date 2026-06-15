@@ -1,2 +1,3 @@
-# Betinha-with-aura-
-Betina Steinhorst Müller
+# Bet
+Betin
+a Steinhorst Müller
